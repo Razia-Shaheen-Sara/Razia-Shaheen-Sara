@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sara
 
-<!--
-**Razia-Shaheen-Sara/Razia-Shaheen-Sara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineering student at [Codam](https://www.codam.nl/) (42 Amsterdam), since late 2023.
 
-Here are some ideas to get you started:
+The 42 curriculum is project-based and has no classes, so everything here I built by reading, breaking things and asking teammates. Started with C and a rewritten standard library, moved on to a shell and a threaded simulation, then C++ and an HTTP server, then Docker. Right now I'm working on the final project: a multiplayer web app in React and NestJS with a team of five.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'd show first
+
+- [webserv](https://github.com/Razia-Shaheen-Sara/webserv) — HTTP/1.1 server in C++. I did config parsing, routing and the request handlers.
+- [Inception](https://github.com/Razia-Shaheen-Sara/Inception) — NGINX, WordPress and MariaDB in Docker Compose, TLS only, Docker secrets for passwords.
+- [minishell](https://github.com/Razia-Shaheen-Sara/minishell) — a bash-like shell in C, done in a pair.
+- [philosophers](https://github.com/Razia-Shaheen-Sara/philosophers) — dining philosophers with pthreads and mutexes.
+- [cub3d](https://github.com/Razia-Shaheen-Sara/cub3d) — raycasting 3D maze.
+- ft_transcendence (in progress, team repo) — I own the chat module end to end: conversation list, message pane, composer, unread badges, and the websocket event protocol. React, Tailwind, daisyUI.
+
+## Tools I use
+
+C, C++, TypeScript · React, NestJS, Prisma, PostgreSQL · Docker, Linux, git, Make
+
+Amsterdam · looking for an internship starting February 2027 · [LinkedIn](https://www.linkedin.com/in/razia-shaheen-55a8a0137/)
