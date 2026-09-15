@@ -1,10 +1,10 @@
-# Hi, I'm Sara
+# Hello to My Profile
 
 Software engineering student at [Codam](https://www.codam.nl/) (42 Amsterdam), since late 2023.
 
-The 42 curriculum is project-based and has no classes, so everything here I built by reading, breaking things and asking teammates. Started with C and a rewritten standard library, moved on to a shell and a threaded simulation, then C++ and an HTTP server, then Docker. Right now I'm working on the final project: a multiplayer web app in React and NestJS with a team of five.
+The 42 curriculum is project-based and has no classes and no teachers so everything here I built by trying, reading, breaking things and asking teammates. Started with C customized library, moved on to a shell and a threaded simulation, algorithms then C++ and an HTTP server, then Docker. Right now I'm working on the final project: a multiplayer web app in React and NestJS with a team of five.
 
-## What I'd show first
+## My best projects
 
 - [webserv](https://github.com/Razia-Shaheen-Sara/webserv) — HTTP/1.1 server in C++. I did config parsing, routing and the request handlers.
 - [Inception](https://github.com/Razia-Shaheen-Sara/Inception) — NGINX, WordPress and MariaDB in Docker Compose, TLS only, Docker secrets for passwords.
@@ -17,4 +17,4 @@ The 42 curriculum is project-based and has no classes, so everything here I buil
 
 C, C++, TypeScript · React, NestJS, Prisma, PostgreSQL · Docker, Linux, git, Make
 
-Amsterdam · looking for an internship starting February 2027 · [LinkedIn](https://www.linkedin.com/in/razia-shaheen-55a8a0137/)
+[LinkedIn](https://www.linkedin.com/in/razia-shaheen-55a8a0137/)
