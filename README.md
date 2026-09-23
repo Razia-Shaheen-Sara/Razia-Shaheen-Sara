@@ -1,8 +1,8 @@
-# Hello!
+# Hello I am Sara!
 
-Software engineering student at [Codam](https://www.codam.nl/) (42 Amsterdam), since late 2023.
+I am a software engineering student at [Codam](https://www.codam.nl/) (42 Amsterdam), since late 2023.
 
-The 42 curriculum is project-based and has no classes and no teachers so everything here I built by trying, reading, breaking things and asking teammates. Started with C customized library, moved on to a shell and a threaded simulation, algorithms then C++ and an HTTP server, then Docker. Right now I'm working on the final project: a multiplayer web app in React and NestJS with a team of five.
+The 42 curriculum is project-based and has no classes and no teachers! So everything here I built by trying, reading, breaking things and asking teammates. Started with C customized library, moved on to a shell and a threaded simulation, algorithms then C++ and an HTTP server, then Docker. Right now I'm working on the final project: a multiplayer web app in React and NestJS with a team of five.
 
 ## My best projects
 
