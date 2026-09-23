@@ -1,4 +1,4 @@
-# Hello to My Profile
+# Hello!
 
 Software engineering student at [Codam](https://www.codam.nl/) (42 Amsterdam), since late 2023.
 
