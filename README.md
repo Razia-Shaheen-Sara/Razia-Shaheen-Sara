@@ -6,7 +6,7 @@ The 42 curriculum is project-based and has no classes and no teachers! So everyt
 
 ## My best projects
 
-- [webserv](https://github.com/Razia-Shaheen-Sara/webserv) — HTTP/1.1 server in C++. I did config parsing, routing and the request handlers.
+
 - [Inception](https://github.com/Razia-Shaheen-Sara/Inception) — NGINX, WordPress and MariaDB in Docker Compose, TLS only, Docker secrets for passwords.
 - [minishell](https://github.com/Razia-Shaheen-Sara/minishell) — a bash-like shell in C, done in a pair.
 - [philosophers](https://github.com/Razia-Shaheen-Sara/philosophers) — dining philosophers with pthreads and mutexes.
